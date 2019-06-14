@@ -1,0 +1,23 @@
+{
+  "name": "TasksApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonllzhang/TasksApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonllzhang/TasksApi/issues"
+  },
+  "homepage": "https://github.com/leonllzhang/TasksApi#readme",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  }
+}
